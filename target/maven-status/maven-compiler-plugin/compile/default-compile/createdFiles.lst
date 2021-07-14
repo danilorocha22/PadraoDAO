@@ -1,0 +1,6 @@
+com/danilo/padraodao/Controller/Inserir.class
+com/danilo/padraodao/DAO/PessoaDaoClasse.class
+com/danilo/padraodao/DAO/FabricaConexao.class
+com/danilo/padraodao/Models/Pessoa.class
+com/danilo/padraodao/DAO/PessoaDaoInterface.class
+com/danilo/padraodao/DAO/ErroBancoException.class
